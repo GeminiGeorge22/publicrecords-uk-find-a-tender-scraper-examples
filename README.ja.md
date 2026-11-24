@@ -1,5 +1,8 @@
 # UK Tenders Scraper — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-uk-find-a-tender-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-uk-find-a-tender-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 英国政府の入札（Find a TenderおよびContracts Finder）：発注者、金額、期限。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。

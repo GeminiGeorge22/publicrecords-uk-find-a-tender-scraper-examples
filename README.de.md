@@ -1,5 +1,8 @@
 # UK Tenders Scraper — Beispiele
 
+[![In Colab öffnen](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-uk-find-a-tender-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-uk-find-a-tender-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Britische Regierungsausschreibungen aus Find a Tender und Contracts Finder: Auftraggeber, Wert, Frist.
 
 Der Actor läuft auf **deinem** Apify-Konto (API-Token oder OAuth). Die Nutzung wird dir auf dem kostenlosen oder bezahlten Apify-Tarif berechnet.

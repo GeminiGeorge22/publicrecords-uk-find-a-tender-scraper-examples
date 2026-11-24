@@ -1,5 +1,8 @@
 # UK Tenders Scraper — exemples
 
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-uk-find-a-tender-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-uk-find-a-tender-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Marchés publics britanniques (Find a Tender et Contracts Finder) : acheteur, valeur, délai.
 
 L'Actor s'exécute sur **votre** compte Apify (jeton API ou OAuth). L'usage vous est facturé, sur l'offre gratuite ou payante d'Apify.
